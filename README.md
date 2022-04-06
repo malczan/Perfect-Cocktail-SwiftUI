@@ -32,6 +32,8 @@ Built with Swift using Xcode 13.3 & SwiftUI framework.
 
 </p>
 
+## How to run app
+
 1. Clone the repository
 2. Open project in Xcode
 3. Start iPhone simulator and try my app :)
