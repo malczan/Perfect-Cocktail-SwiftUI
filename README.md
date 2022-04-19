@@ -3,7 +3,7 @@
 ## Overview
 
 Perfect Cocktail is an application, which is made for every cocktail's fan! Users can find perfect cocktail, based on their preferances. 
-Application allows users to filtr cocktails, by alcoholic/ non-alcoholic or ingredients that are used in. If user have no idea, which coctkail
+Application allows users to filtr cocktails, by alcoholic/ non-alcoholic or ingredients that are used in. If user have no idea, which cocktail
 would be perfect, there is a extra feautre - Random!
 
 All data provided by https://www.thecocktaildb.com/api.php.
